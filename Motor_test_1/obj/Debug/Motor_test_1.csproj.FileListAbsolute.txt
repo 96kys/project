@@ -1,0 +1,35 @@
+C:\Users\abc\Desktop\motor_test\Motor_test_1\Motor_test_1\bin\Debug\Motor_test_1.exe.config
+C:\Users\abc\Desktop\motor_test\Motor_test_1\Motor_test_1\bin\Debug\Motor_test_1.exe
+C:\Users\abc\Desktop\motor_test\Motor_test_1\Motor_test_1\bin\Debug\Motor_test_1.pdb
+C:\Users\abc\Desktop\motor_test\Motor_test_1\Motor_test_1\obj\Debug\Motor_test_1.csproj.AssemblyReference.cache
+C:\Users\abc\Desktop\motor_test\Motor_test_1\Motor_test_1\obj\Debug\Motor_test_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\abc\Desktop\motor_test\Motor_test_1\Motor_test_1\obj\Debug\Motor_test_1.Form1.resources
+C:\Users\abc\Desktop\motor_test\Motor_test_1\Motor_test_1\obj\Debug\Motor_test_1.Properties.Resources.resources
+C:\Users\abc\Desktop\motor_test\Motor_test_1\Motor_test_1\obj\Debug\Motor_test_1.csproj.GenerateResource.cache
+C:\Users\abc\Desktop\motor_test\Motor_test_1\Motor_test_1\obj\Debug\Motor_test_1.csproj.CoreCompileInputs.cache
+C:\Users\abc\Desktop\motor_test\Motor_test_1\Motor_test_1\obj\Debug\Motor_test_1.exe
+C:\Users\abc\Desktop\motor_test\Motor_test_1\Motor_test_1\obj\Debug\Motor_test_1.pdb
+C:\Users\ICG\Desktop\motor_test\Motor_test_1\Motor_test_1\bin\Debug\Motor_test_1.exe.config
+C:\Users\ICG\Desktop\motor_test\Motor_test_1\Motor_test_1\bin\Debug\Motor_test_1.exe
+C:\Users\ICG\Desktop\motor_test\Motor_test_1\Motor_test_1\bin\Debug\Motor_test_1.pdb
+C:\Users\ICG\Desktop\motor_test\Motor_test_1\Motor_test_1\obj\Debug\Motor_test_1.csproj.AssemblyReference.cache
+C:\Users\ICG\Desktop\motor_test\Motor_test_1\Motor_test_1\obj\Debug\Motor_test_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ICG\Desktop\motor_test\Motor_test_1\Motor_test_1\obj\Debug\Motor_test_1.Form1.resources
+C:\Users\ICG\Desktop\motor_test\Motor_test_1\Motor_test_1\obj\Debug\Motor_test_1.Properties.Resources.resources
+C:\Users\ICG\Desktop\motor_test\Motor_test_1\Motor_test_1\obj\Debug\Motor_test_1.csproj.GenerateResource.cache
+C:\Users\ICG\Desktop\motor_test\Motor_test_1\Motor_test_1\obj\Debug\Motor_test_1.csproj.CoreCompileInputs.cache
+C:\Users\ICG\Desktop\motor_test\Motor_test_1\Motor_test_1\obj\Debug\Motor_test_1.exe
+C:\Users\ICG\Desktop\motor_test\Motor_test_1\Motor_test_1\obj\Debug\Motor_test_1.pdb
+C:\Users\ICG\OneDrive\바탕 화면\motor_test\Motor_test_1\Motor_test_1\bin\Debug\Motor_test_1.exe.config
+C:\Users\ICG\OneDrive\바탕 화면\motor_test\Motor_test_1\Motor_test_1\bin\Debug\Motor_test_1.exe
+C:\Users\ICG\OneDrive\바탕 화면\motor_test\Motor_test_1\Motor_test_1\bin\Debug\Motor_test_1.pdb
+C:\Users\ICG\OneDrive\바탕 화면\motor_test\Motor_test_1\Motor_test_1\obj\Debug\Motor_test_1.csproj.AssemblyReference.cache
+C:\Users\ICG\OneDrive\바탕 화면\motor_test\Motor_test_1\Motor_test_1\obj\Debug\Motor_test_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ICG\OneDrive\바탕 화면\motor_test\Motor_test_1\Motor_test_1\obj\Debug\Motor_test_1.Form1.resources
+C:\Users\ICG\OneDrive\바탕 화면\motor_test\Motor_test_1\Motor_test_1\obj\Debug\Motor_test_1.Properties.Resources.resources
+C:\Users\ICG\OneDrive\바탕 화면\motor_test\Motor_test_1\Motor_test_1\obj\Debug\Motor_test_1.csproj.GenerateResource.cache
+C:\Users\ICG\OneDrive\바탕 화면\motor_test\Motor_test_1\Motor_test_1\obj\Debug\Motor_test_1.csproj.CoreCompileInputs.cache
+C:\Users\ICG\OneDrive\바탕 화면\motor_test\Motor_test_1\Motor_test_1\obj\Debug\Motor_test_1.exe
+C:\Users\ICG\OneDrive\바탕 화면\motor_test\Motor_test_1\Motor_test_1\obj\Debug\Motor_test_1.pdb
+C:\Users\ICG\OneDrive\바탕 화면\motor_test\Motor_test_1\Motor_test_1\obj\Debug\Interop.MLApp.dll
+C:\Users\ICG\OneDrive\바탕 화면\motor_test\Motor_test_1\Motor_test_1\obj\Debug\Motor_test_1.csproj.ResolveComReference.cache
